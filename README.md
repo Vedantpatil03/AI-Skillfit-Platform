@@ -1,5 +1,4 @@
-# AI for Bharat - Complete System
-
+# AI-SKILLFIT PLATFORM
 ## 🎯 Overview
 
 **AI-Powered Multilingual Video Interview & Candidate Assessment System** - A comprehensive platform enabling large-scale, inclusive candidate screening through AI-driven evaluation and fraud detection.
