@@ -11,7 +11,7 @@
 
 ### Start Backend
 ```bash
-cd "AI for Bharat"
+cd "AI skillfit platform"
 python -m uvicorn app.main:app --reload
 ```
 → Visit: http://localhost:8000/docs
