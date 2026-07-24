@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+pymongo
+python-dotenv
+python-multipart
+requests
+openai-whisper
+ffmpeg-python
+torch
+numpy
+scipy
+pydantic
+pydantic-settings
