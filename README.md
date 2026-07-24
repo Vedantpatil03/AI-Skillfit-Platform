@@ -1,5 +1,5 @@
 # AI-SKILLFIT PLATFORM
-## 🎯 Overview
+##  Overview
 
 **AI-Powered Multilingual Video Interview & Candidate Assessment System** - A comprehensive platform enabling large-scale, inclusive candidate screening through AI-driven evaluation and fraud detection.
 
@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 Quick Start (2 minutes)
+##  Quick Start 
 
 ### Start Backend
 ```bash
@@ -31,39 +31,39 @@ mongod
 ---
 
 
-## ✨ Key Features
+##  Key Features
 
-### 🌐 Multilingual
+###  Multilingual
 - English, Hindi, Kannada
 - Language-specific instructions
 - Localized sample questions
 
-### 🧠 Advanced Evaluation  
+###  Advanced Evaluation  
 - 5-dimensional assessment
 - Relevance, Completeness, Clarity, Confidence, Authenticity
 - 0-100 scoring system
 
-### 🏷️ Smart Classification
+###  Smart Classification
 - Job-Ready (80-100)
 - Training-Needed (60-79)
 - Manual-Verification (40-59)
 - Low-Confidence (0-39)
 - Fraud-Suspected
 
-### 🔒 Fraud Detection
+###  Fraud Detection
 - Face presence & liveness detection
 - Voice continuity analysis
 - Duplicate attempt detection
 - Impersonation pattern recognition
 - Fraud risk scoring (0-1)
 
-### 📊 Admin Dashboard
+###  Admin Dashboard
 - Real-time analytics
 - Advanced filtering (classification, district, language, segment)
 - Fraud alerts & escalation queue
 - Detailed breakdown by demographics
 
-### 🏢 Workforce Mapping
+###  Workforce Mapping
 - Blue-Collar Trades
 - Polytechnic-Skilled
 - Semi-Skilled Jobs
@@ -71,7 +71,7 @@ mongod
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 ```
 Video Interview → Transcription → AI Evaluation → Classification
@@ -91,7 +91,7 @@ Video Interview → Transcription → AI Evaluation → Classification
 ---
 
 
-## 🎓 How It Works
+##  How It Works
 
 ### Candidate Submission
 1. Select language (EN/HI/KN)
@@ -241,7 +241,7 @@ AI for Bharat/
 
 ---
 
-## 🆘 Common Tasks
+##  Common Tasks
 
 ### Record Interview
 ```
